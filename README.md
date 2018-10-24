@@ -1,6 +1,6 @@
 # Poem-Maker
 
-This is a program that returns a poem for whatever first word you enter in Shakespearean style.
+This is a program that returns a poem for whatever first word you enter in Shakespearean style. Here, LSTMs(2-layered) instead of the basic RNN to capture longer-range dependencies.
 
 ## Dependancies
 
